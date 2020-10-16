@@ -2,7 +2,7 @@
 
 GDPR Compliance Notice: Personal information of EU residents are no longer included. Visit https://builtwith.com/compliance for options and more information.
 
-Name,Title,Email,Domain,Location on Site,Tech Spend USD,Company,Vertical,Quantcast,Alexa,Majestic,Umbrella,Telephones,Emails,Twitter,Facebook,LinkedIn,Google,Pinterest,GitHub,Instagram,Vk,Vimeo,Youtube,TikTok,People,City,State,Zip,Country,First Detected,Last Found,First Indexed,Last Indexed,Exclusion,GDPR
+Name|Title|Email|Domain|Location on Site|Tech Spend USD|Company|VGruntfile.jsertical|Quantcast|Alexa|Majestic|Umbrella|Telephones|Emails|Twitter|Facebook|LinkedIn|Google|Pinterest|GitHub|Instagram|Vk|Vimeo|Youtube|TikTok|People,City|State,Zip|Country|First Detected|Last Found|First Indexed|Last Indexed|Exclusion|GDPR
 
 "","","","1000days.ph","1000days.ph","$100","","","Outside Top 1m","Outside Top 1m","Outside Top 1m","Outside Top 1m","","","","","","","","","","","","","","","","","","","2019-12-02","2020-05-20","2019-12-02","2020-05-20","-","-"
 "","","","10sister.ph","10sister.ph","$50","","Business And Industrial","Outside Top 1m","Outside Top 1m","Outside Top 1m","Outside Top 1m","ph:","","","","","","","","https://instagram.com/10sister.ph.official","","","","","","","","","","2019-09-10","2020-05-20","2019-09-02","2020-05-20","-","-"
