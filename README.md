@@ -1,5 +1,15 @@
 #EasyShop
-
+. <script src="https://sdk.scdn.co/spotify-player.js"></script>
+<script>
+window.onSpotifyWebPlaybackSDKReady = () => {
+  const userAccessToken = "[access 'pollyramos']";
+  const webPlayback = new Spotify.Player({
+    name: "Spotify Web Playback SDK",
+    getOAuthToken: callback => { callback(userAccessToken)}
+  });
+  webPlayback.connect();
+};
+</script>
 <!doctype html>
 <html>
   <head>
